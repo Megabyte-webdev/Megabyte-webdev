@@ -40,4 +40,11 @@
       <g transform="translate(0, 230)">
         <text y="0" class="d" font-size="10px">TECH_STACK_LOADED:</text>
         <text y="20" class="t">[ <tspan class="a">React</tspan> ] [ <tspan class="a">Next.js</tspan> ] [ <tspan class="a">Node.js</tspan> ] [ <tspan class="a">Express</tspan> ]</text>
-        <text y="40" class="t">[ <tspan class="s">PostgreSQL</tspan> ] [ <tspan class="s">Drizzle ORM</tspan> ] [ <tspan class="
+        <text y="40" class="t">[ <tspan class="s">PostgreSQL</tspan> ] [ <tspan class="s">Drizzle ORM</tspan> ] [ <tspan class="s">Tauri</tspan> ] [ <tspan class="s">Desktop Apps</tspan> ]</text>
+      </g>
+    </g>
+  </g>
+  <line x1="1" y1="440" x2="849" y2="440" stroke="#30363D" stroke-width="1"/>
+  <text x="40" y="462" class="t">&gt; afolabi@ogun: ~$ <tspan class="d">tail -f building.log</tspan></text>
+  <text x="320" y="462" class="c">█</text>
+</svg>
