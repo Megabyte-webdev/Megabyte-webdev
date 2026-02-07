@@ -1,1 +1,86 @@
-# Afolabi Mubarak\n\n## About Me\n\n- **Name:** Afolabi Mubarak\n- **Experience:** 6 years\n\n### Tech Stack\n\n- JavaScript\n- TypeScript\n- Rust\n- Python\n- React\n- Next.js\n- Node.js\n- Express\n- PostgreSQL\n- Drizzle ORM\n- Tauri\n\n![Terminal Card](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iNDAiPgogIDx0aXRsZT5BZm9sYWJpIE11YmFyayB0ZXJtaW5hbCBjYXJkPC90aXRsZT4KICA8ZGVmcz4KICA8cGF0aCBkPSJNMTAgMTAwIEgxMCA4MCBLMTAgMTAwIFoiLz4KICA8cGF0aCBkPSJNMTAgODYgSDEwIDAgaC8zMHogTTcwIDk5IEgwIEExMCAwIDAgMSAxMCA1WiIvPgogIDxwYXRoIGQ9Ik04MCA5OSBMMTIwIDUwIEgxMCBDMTAuMjYyNiA1MS4wODMzMCAxMC41MzIwNiA1Mi45OTc0IDIwLjExNzkwMSIvcGF0aD4KICA8cGF0aCBkPSJNMTAgODYgSDE1MCA1MCBMMTAgODAgSDEwIDUwIFoiLz4KICA8cGF0aCBkPSJNMTAgOTkgSDEwIDI4IE00MC41MjM2IDU5IDg1IDMgTDQ0IDMwIGMxMiA1MC4xNTAyIDQ3IDcwIDg1YzUuNDE0NjQgMCAxMCAxMCAxMC41MTAwNCBNMTAgNzUgcjBhdCA+PHBhdGggZCBkPSJNMTAgNjAgSDEgMzDHNzY0OCAxMCAwIDAgMSBTMTUgNjQgMjcgbTAgIj4KICA8L3BhdGg+CiAgICA8ZyB0cmFuc2Zvcm0uZGlzdGF0ZSBob3ZlZSBsaWZlY29pbmF0ZTEvLTwvZz4KICA8L2RlZi4KPC9zdmc+Cg==)\n\n---\n\n*Generated on 2026-02-07 23:07:41 (UTC)*
+# 👨‍💻 Afolabi Mubarak
+
+<svg width="850" height="480" viewBox="0 0 850 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="480" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <style>
+    .t { fill: #C9D1D9; font-family: ui-monospace,monospace; font-size: 13px; }
+    .l { fill: #8B949E; }
+    .a { fill: #58A6FF; }
+    .s { fill: #3FB950; }
+    .d { fill: #484F58; }
+    @keyframes b { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }
+    .c { animation: b 1s infinite; fill: #58A6FF; }
+    @keyframes p { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+    .p { animation: p 3s infinite; }
+  </style>
+  <rect width="850" height="35" rx="10" fill="#161B22"/>
+  <g transform="translate(15, 12)">
+    <circle cx="0" cy="5" r="5" fill="#FF5F56"/><circle cx="20" cy="5" r="5" fill="#FFBD2E"/><circle cx="40" cy="5" r="5" fill="#27C93F"/>
+  </g>
+  <text x="425" y="22" text-anchor="middle" class="t l" font-size="12px">afolabi@ogun: ~</text>
+  <g transform="translate(40, 100)">
+    <!-- AM ASCII LOGO -->
+    <text class="a p" style="font-size: 16px; font-weight: bold;" xml:space="preserve">
+      <tspan x="0" dy="0">  ███╗   ███╗</tspan>
+      <tspan x="0" dy="18">  ████╗ ████║</tspan>
+      <tspan x="0" dy="18">  ██╔████╔██║</tspan>
+      <tspan x="0" dy="18">  ██║╚██╔╝██║</tspan>
+      <tspan x="0" dy="18">  ██║ ╚═╝ ██║</tspan>
+      <tspan x="0" dy="18">  ╚═╝     ╚═╝</tspan>
+      <tspan x="0" dy="36" class="d" font-size="10px">[ SYSTEM_READY ]</tspan>
+    </text>
+    <g transform="translate(260, 5)">
+      <text y="0" class="a" font-size="16px" font-weight="bold">afolabi@ogun</text>
+      <text y="10" class="d">------------------</text>
+      <g transform="translate(0, 35)">
+        <text y="0" class="t"><tspan class="a">Role     </tspan> Software Engineer</text>
+        <text y="20" class="t"><tspan class="a">Location </tspan> Ogun, Nigeria</text>
+        <text y="40" class="t"><tspan class="a">Experience</tspan> 6 Years</text>
+        <text y="60" class="t"><tspan class="a">Languages</tspan> JavaScript | TypeScript | Rust | Python</text>
+        <text y="80" class="t"><tspan class="a">Specialization</tspan> Fullstack & Desktop Apps</text>
+        <text y="100" class="t"><tspan class="a">Status   </tspan> <tspan class="s">Building Awesome Apps [Online]</tspan></text>
+      </g>
+      <g transform="translate(0, 230)">
+        <text y="0" class="d" font-size="10px">TECH_STACK_LOADED:</text>
+        <text y="20" class="t">[ <tspan class="a">React</tspan> ] [ <tspan class="a">Next.js</tspan> ] [ <tspan class="a">Node.js</tspan> ] [ <tspan class="a">Express</tspan> ]</text>
+        <text y="40" class="t">[ <tspan class="s">PostgreSQL</tspan> ] [ <tspan class="s">Drizzle ORM</tspan> ] [ <tspan class="s">Tauri</tspan> ] [ <tspan class="s">Desktop Apps</tspan> ]</text>
+      </g>
+    </g>
+  </g>
+  <line x1="1" y1="440" x2="849" y2="440" stroke="#30363D" stroke-width="1"/>
+  <text x="40" y="462" class="t">&gt; afolabi@ogun: ~$ <tspan class="d">tail -f building.log</tspan></text>
+  <text x="320" y="462" class="c">█</text>
+</svg>
+
+## 🚀 About Me
+
+I'm a passionate **Software Engineer** with 6 years of hands-on experience building modern web and desktop applications. I specialize in creating scalable fullstack solutions and lightweight desktop applications using cutting-edge technologies.
+
+### 💻 Tech Stack
+
+**Languages:** JavaScript, TypeScript, Rust, Python
+
+**Frontend:** React, Next.js
+
+**Backend:** Node.js, Express
+
+**Database:** PostgreSQL, Drizzle ORM
+
+**Desktop:** Tauri, Electron
+
+**Other:** RESTful APIs, Real-time Applications
+
+### 🎯 What I Do
+
+- 🌐 **Fullstack Development** - Building end-to-end web applications with React and Node.js
+- 🖥️ **Desktop App Development** - Creating lightweight, performant desktop applications with Tauri
+- 📦 **Backend Architecture** - Designing scalable server-side solutions with Express and PostgreSQL
+- ⚡ **Modern Tools** - Leveraging TypeScript, Rust, and Python for robust applications
+
+### 📍 Location
+
+**Ogun, Nigeria**
+
+---
+
+*Let's build something amazing together!* 🚀
