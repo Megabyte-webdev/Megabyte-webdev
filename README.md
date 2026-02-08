@@ -2,11 +2,11 @@
 
 ![Profile Terminal](./profile.svg)
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Software Engineer** with 6 years of hands-on experience building modern web and desktop applications. I specialize in creating scalable fullstack solutions and lightweight desktop applications using cutting-edge technologies.
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Languages:** JavaScript, TypeScript, Rust, Python
 
@@ -20,12 +20,12 @@ I'm a passionate **Software Engineer** with 6 years of hands-on experience build
 
 **Other:** RESTful APIs, Real-time Applications
 
-### 🎯 What I Do
+### What I Do
 
 - 🌐 **Fullstack Development** - Building end-to-end web applications with React and Node.js
 - 🖥️ **Desktop App Development** - Creating lightweight, performant desktop applications with Tauri
-- 📦 **Backend Architecture** - Designing scalable server-side solutions with Express and PostgreSQL
-- ⚡ **Modern Tools** - Leveraging TypeScript, Rust, and Python for robust applications
+- **Backend Architecture** - Designing scalable server-side solutions with Express and PostgreSQL
+-  **Modern Tools** - Leveraging TypeScript, Rust, and Python for robust applications
 
 ### 📍 Location
 
@@ -33,4 +33,4 @@ I'm a passionate **Software Engineer** with 6 years of hands-on experience build
 
 ---
 
-*Let's build something amazing together!* 🚀
+*Let's build something amazing together!* 
