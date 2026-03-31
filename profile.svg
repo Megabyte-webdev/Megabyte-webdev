@@ -40,7 +40,7 @@
       <g transform="translate(0, 230)">
         <text y="0" class="d" font-size="10px">TECH_STACK_LOADED:</text>
         <text y="20" class="t">[ <tspan class="a">React</tspan> ] [ <tspan class="a">Next.js</tspan> ] [ <tspan class="a">Node.js</tspan> ] [ <tspan class="a">Express</tspan> ]</text>
-        <text y="40" class="t">[ <tspan class="s">PostgreSQL</tspan> ] [ <tspan class="s">Drizzle ORM</tspan> ] [ <tspan class="s">Tauri</tspan> ] [ <tspan class="s">Desktop Apps</tspan> ]</text>
+        <text y="40" class="t">[ <tspan class="s">PostgreSQL</tspan> ] [ <tspan class="s">Docker</tspan> ] [ <tspan class="s">Drizzle ORM</tspan> ] [ <tspan class="s">Tauri</tspan> ] [ <tspan class="s">Desktop Apps</tspan> ]</text>
       </g>
     </g>
   </g>
