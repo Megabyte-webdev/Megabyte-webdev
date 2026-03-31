@@ -24,7 +24,7 @@ I'm a passionate **Software Engineer** with 6 years of hands-on experience build
 
 - 🌐 **Fullstack Development** - Building end-to-end web applications with React and Node.js
 - 🖥️ **Desktop App Development** - Creating lightweight, performant desktop applications with Tauri
-- **Backend Architecture** - Designing scalable server-side solutions with Express and PostgreSQL
+- **Backend Architecture** - Designing scalable server-side solutions with Express and PostgreSQL, Docker, Drizzle-ORM
 -  **Modern Tools** - Leveraging TypeScript, Rust, and Python for robust applications
 
 ### 📍 Location
