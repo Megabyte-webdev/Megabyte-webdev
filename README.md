@@ -12,7 +12,7 @@ I'm a passionate **Software Engineer** with 6 years of hands-on experience build
 
 **Frontend:** React, Next.js
 
-**Backend:** Node.js, Express
+**Backend:** Node.js, Express.js, Docker
 
 **Database:** PostgreSQL, Drizzle ORM
 
