@@ -1,4 +1,4 @@
-# 👨‍💻 Adelaja Oluwatoba
+# 👨‍💻 Afolabi Mubarak
 
 ![Profile Terminal](./profile.svg)
 
