@@ -10,11 +10,11 @@ I'm a passionate **Software Engineer** with 6 years of hands-on experience build
 
 **Languages:** JavaScript, TypeScript, Rust, Python
 
-**Frontend:** React, Next.js
+**Frontend:** React, Next.js, Tailwindcss, HTML, CSS, 
 
 **Backend:** Node.js, Express.js, Docker
 
-**Database:** PostgreSQL, Drizzle ORM
+**Database:** PostgreSQL, MongoDB, MySQL, Drizzle ORM
 
 **Desktop:** Tauri, Electron
 
