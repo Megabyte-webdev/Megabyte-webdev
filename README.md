@@ -12,7 +12,7 @@ I'm a passionate **Software Engineer** with 6 years of hands-on experience build
 
 **Frontend:** React, Next.js, Tailwindcss, HTML, CSS, 
 
-**Backend:** Node.js, Express.js, Docker
+**Backend:** Node.js, Express.js, Docker, Axum, Actix-web
 
 **Database:** PostgreSQL, MongoDB, MySQL, Drizzle ORM
 
@@ -24,7 +24,7 @@ I'm a passionate **Software Engineer** with 6 years of hands-on experience build
 
 - 🌐 **Fullstack Development** - Building end-to-end web applications with React and Node.js
 - 🖥️ **Desktop App Development** - Creating lightweight, performant desktop applications with Tauri
-- **Backend Architecture** - Designing scalable server-side solutions with Express and PostgreSQL, Docker, Drizzle-ORM
+- **Backend Architecture** - Designing scalable server-side solutions with Express, Axum, Actix-web, PostgreSQL, MySQL, MongoDB, Docker, Prisma and Drizzle-ORM
 -  **Modern Tools** - Leveraging TypeScript, Rust, and Python for robust applications
 
 ### 📍 Location
